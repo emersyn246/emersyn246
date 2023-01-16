@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/emersyn24680" target="blank"><img src="https://img.shields.io/twitter/follow/emersyn24680?logo=twitter&style=for-the-badge" alt="emersyn24680" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Science, specifically pygame and coding inR**
+- 🌱 I’m currently learning **Computer Science, specifically pygame and coding in R**
 
 - 📫 How to reach me **emersyn246@gmail.com**
 
